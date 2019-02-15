@@ -1,0 +1,40 @@
+{
+    "name": "liftov/craft-stage-file-proxy",
+    "description": "Stage File Proxy is a general solution for getting production files on a development server on demand.",
+    "type": "craft-plugin",
+    "version": "1.0.0",
+    "keywords": [
+        "craft",
+        "cms",
+        "craftcms",
+        "craft-plugin",
+        "stage file proxy"
+    ],
+    "support": {
+        "docs": "https://github.com/Liftov/craft-stage-file-proxy/blob/master/README.md",
+        "issues": "https://github.com/Liftov/craft-stage-file-proxy/issues"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Wouter Van Scharen",
+            "homepage": "liftov.be"
+        }
+    ],
+    "require": {
+        "craftcms/cms": "^3.0.0-RC1"
+    },
+    "autoload": {
+        "psr-4": {
+          "liftov\\stagefileproxy\\": "src/"
+        }
+    },
+    "extra": {
+        "name": "Stage File Proxy",
+        "handle": "stage-file-proxy",
+        "hasCpSettings": false,
+        "hasCpSection": false,
+        "changelogUrl": "https://github.com/Liftov/craft-stage-file-proxy/CHANGELOG.md",
+        "class": "liftov\\stagefileproxy\\StageFileProxy"
+    }
+}
