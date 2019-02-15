@@ -1,1 +1,62 @@
-<svg id="Laag_1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 60.1 99.6"><style>.icon-liftov-st0{fill:#201747}</style><path class="icon-liftov-st0" d="M30 93.1c-4.1 0-24.4.2-24.4 3.2 0 3.1 20.3 3.2 24.4 3.2s24.4-.2 24.4-3.2c-.1-3-20.4-3.2-24.4-3.2zM39.7 1.6C32.1-1 24-.4 16.8 3.1 9.6 6.7 4.2 12.8 1.6 20.4-1 28-.4 36.1 3.1 43.3c3.1 6.4 8.3 11.3 14.8 14.2 6 2.5 4.7 7.8 5.1 10.8.1.9.8.6 1.3.3C26.8 67 27.2 65 43.4 57c7.2-3.5 12.6-9.7 15.2-17.3 2.6-7.6 2-15.7-1.5-22.9-3.7-7.2-9.8-12.6-17.4-15.2zm-9.2 40.6c-7 0-12.6-5.6-12.6-12.6S23.5 17 30.5 17s12.6 5.6 12.6 12.6-5.7 12.6-12.6 12.6z"/></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="Laag_1"
+   viewBox="0 0 99.600001 99.6"
+   version="1.1"
+   sodipodi:docname="icon.svg"
+   width="99.599998"
+   height="99.599998"
+   inkscape:export-filename="/home/wouter/projects/intern/craft-stage-file-proxy/src/icon.svg.png"
+   inkscape:export-xdpi="36.671547"
+   inkscape:export-ydpi="36.671547"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+  <metadata
+     id="metadata11">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs9" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="961"
+     id="namedview7"
+     showgrid="false"
+     inkscape:zoom="2.3694779"
+     inkscape:cx="29.627965"
+     inkscape:cy="49.799999"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="Laag_1" />
+  <style
+     id="style2">.icon-liftov-st0{fill:#201747}</style>
+  <path
+     class="icon-liftov-st0"
+     d="m 49.835593,93.100004 c -4.1,0 -24.4,0.2 -24.4,3.2 0,3.1 20.3,3.2 24.4,3.2 4.1,0 24.4,-0.2 24.4,-3.2 -0.1,-3 -20.4,-3.2 -24.4,-3.2 z m 9.7,-91.500001 c -7.6,-2.59999994 -15.7,-1.99999994 -22.9,1.5 -7.2,3.6 -12.6,9.700001 -15.2,17.300001 -2.6,7.6 -2,15.7 1.5,22.9 3.1,6.4 8.3,11.3 14.8,14.2 6,2.5 4.7,7.8 5.1,10.8 0.1,0.9 0.8,0.6 1.3,0.3 2.5,-1.6 2.9,-3.6 19.1,-11.6 7.2,-3.5 12.6,-9.7 15.2,-17.3 2.6,-7.6 2,-15.7 -1.5,-22.9 -3.7,-7.200001 -9.8,-12.600001 -17.4,-15.200001 z m -9.2,40.600001 c -7,0 -12.6,-5.6 -12.6,-12.6 0,-7 5.6,-12.6 12.6,-12.6 7,0 12.6,5.6 12.6,12.6 0,7 -5.7,12.6 -12.6,12.6 z"
+     id="path4"
+     inkscape:connector-curvature="0"
+     style="fill:#201747" />
+</svg>
