@@ -40,6 +40,11 @@ Add the following line to your local .env file:
 
     STAGE_FILE_PROXY_REMOTE="http://remote.site.url/"
 
+Optionally add the following line if your files don't live in the "files" folder
+
+    STAGE_FILE_PROXY_BASE_FOLDER="custom/subfolder"
+
+
 ## Using Stage File Proxy
 
 The plugin works behind the scenes so there is no need to do anything.
