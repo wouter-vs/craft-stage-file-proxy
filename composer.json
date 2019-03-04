@@ -2,7 +2,7 @@
     "name": "liftov/craft-stage-file-proxy",
     "description": "Stage File Proxy is a general solution for getting production files on a development server on demand.",
     "type": "craft-plugin",
-    "version": "1.0.0",
+    "version": "1.1.0",
     "keywords": [
         "craft",
         "cms",
